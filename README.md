@@ -173,11 +173,6 @@ Designed a complete visual identity for FOCS Academy, including the logo, brand 
         </a>
       </td>
       <td align="center" width="80">
-        <a href="https://wa.me/201508705209" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/>
-        </a>
-      </td>
-      <td align="center" width="80">
         <a href="https://www.behance.net/eslam1design" target="_blank">
           <img src="https://cdn.simpleicons.org/behance/1769FF" width="48" height="48" alt="Behance"/>
         </a>
